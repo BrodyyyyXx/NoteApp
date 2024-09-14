@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqEVcXjiWM7eRBC9dV7YhJkki+4zKYDCIIgU/HGgFgNMkfnqwJIDw36u0xJNWS8UTss6Fv6CQ0XMutjgj4fAdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladp\\OneDrive\\Документы\\MyProjects\\C#\\NoteApp\\NoteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
